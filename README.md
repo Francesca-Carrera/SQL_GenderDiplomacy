@@ -25,7 +25,7 @@ Questo progetto sviluppa un’analisi articolata in tre focus:
 
 **Struttura della repository**  
 
-La repository `SQL_GenDip` contiene tre cartelle principali e alcuni file nella root.
+La repository `SQL_GenDip` contiene tre cartelle principali e un file nella root.
 
 **[`Dataset_source`](https://github.com/Francesca-Carrera/SQL_GenDip/tree/main/Dataset_source)** – Dati originali e documentazione di supporto:
   - `CodeBook.pdf` – Documento ufficiale del progetto GenDip (Università di Goteborg). Descrive finalità, metodologia, significato di tutte le variabili (genere, titoli, regioni, politiche estere, ecc.).
@@ -44,10 +44,8 @@ La repository `SQL_GenDip` contiene tre cartelle principali e alcuni file nella 
   - `3_analysis_Italy.sql` – Query del terzo focus (approfondimento sull'Italia). Analisi del conteggio diplomatici per genere (totale e annuale), crescita percentuale maggiore dei diplomatici maschili (63,81% nel 2014), media percentuale annuale di legislatrici (da 2,70% a 35,71%), crescita media annua (3,67%) e classifica dell'Italia su 203 paesi (57° posto con 21,60%).
   - `Graphs.xlsx` – File Excel con i dati aggregati e le tabelle per la creazione dei grafici, suddiviso nei tre focus dell'analisi.
 
-**Nella root della repository si trovano inoltre:**
+**Nella root della repository si trova inoltre:**
 - `Francesca_Carrera_SQL_GenDip.pdf` – Presentazione completa del progetto (72 pagine), che illustra l'intero processo ETL e le analisi con grafici.
-- `LICENSE.md` – Licenza MIT.
-- `README.md` – Questo file.
 
 **📌 Feedback del tutor (Start2Impact)**  
 
