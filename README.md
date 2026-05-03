@@ -1,4 +1,4 @@
-# Progetto SQL – Analisi della rappresentanza di genere in diplomazia (dataset GenDip).
+# Progetto SQL – Analisi della rappresentanza di genere in diplomazia.
 
 **File principale:** `Francesca_Carrera_SQL_GenDip.pdf` (presentazione completa del progetto)
 
