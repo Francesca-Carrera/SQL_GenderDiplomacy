@@ -2,7 +2,7 @@
 
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**File principale:** `Francesca_Carrera_SQL_GenDip.pdf` (presentazione completa del progetto).
+**File principale:** `Francesca_Carrera_SQL_GenderDiplomacy.pdf` (presentazione completa del progetto).
 
 **Obiettivo del progetto**  
 Un’organizzazione no profit che promuove la parità di genere in ogni ambito della società ha fornito il dataset GenDip (Gender and Diplomatic Representation), che copre oltre 200 Paesi e 10 anni tra il 1968 e il 2021, con informazioni su Paese di invio, Paese di destinazione, tipo di titolo diplomatico e genere del diplomatico.  
@@ -27,7 +27,7 @@ Questo progetto sviluppa un’analisi articolata in tre focus:
 
 **Struttura della repository**  
 
-La repository `SQL_GenDip` contiene tre cartelle principali e un file nella root.
+La repository `SQL_GenderDiplomacy` contiene tre cartelle principali e un file nella root.
 
 **[`Dataset_source`](https://github.com/Francesca-Carrera/SQL_GenDip/tree/main/Dataset_source)** – Dati originali e documentazione di supporto:
   - `CodeBook.pdf` – Documento ufficiale del progetto GenDip (Università di Goteborg). Descrive finalità, metodologia, significato di tutte le variabili (genere, titoli, regioni, politiche estere, ecc.).
@@ -47,7 +47,7 @@ La repository `SQL_GenDip` contiene tre cartelle principali e un file nella root
   - `Graphs.xlsx` – File Excel con i dati aggregati e le tabelle per la creazione dei grafici, suddiviso nei tre focus dell'analisi.
 
 **Nella root della repository si trova inoltre:**
-- `Francesca_Carrera_SQL_GenDip.pdf` – Presentazione completa del progetto (72 pagine), che illustra l'intero processo ETL e le analisi con grafici.
+- `Francesca_Carrera_SQL_GenderDiplomacy.pdf` – Presentazione completa del progetto (72 pagine), che illustra l'intero processo ETL e le analisi con grafici.
 
 **📌 Feedback del tutor (Start2Impact)**  
 
