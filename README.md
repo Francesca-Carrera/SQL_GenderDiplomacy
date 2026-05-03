@@ -1,5 +1,7 @@
 # Progetto SQL – Analisi della rappresentanza di genere in diplomazia.
 
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 **File principale:** `Francesca_Carrera_SQL_GenDip.pdf` (presentazione completa del progetto).
 
 **Obiettivo del progetto**  
