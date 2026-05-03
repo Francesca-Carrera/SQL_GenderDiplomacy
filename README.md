@@ -1,14 +1,14 @@
 # Progetto SQL – Analisi della rappresentanza di genere in diplomazia.
 
-**File principale:** `Francesca_Carrera_SQL_GenDip.pdf` (presentazione completa del progetto)
+**File principale:** `Francesca_Carrera_SQL_GenDip.pdf` (presentazione completa del progetto).
 
 **Obiettivo del progetto**  
 Un’organizzazione no profit che promuove la parità di genere in ogni ambito della società ha fornito il dataset GenDip (Gender and Diplomatic Representation), che copre oltre 200 Paesi e 10 anni tra il 1968 e il 2021, con informazioni su Paese di invio, Paese di destinazione, tipo di titolo diplomatico e genere del diplomatico.  
 
 Questo progetto sviluppa un’analisi articolata in tre focus:
-1. **Genere e titoli dei diplomatici** – conteggi per anno, paesi con più diplomatici femminili, distribuzione dei titoli
-2. **Presenza femminile nei parlamenti e politiche estere femministe** – medie percentuali annuali, paesi aderenti a politiche estere femministe
-3. **Approfondimento sull’Italia** – confronto con gli altri paesi e analisi specifica della rappresentanza diplomatica e parlamentare
+1. **Genere e titoli dei diplomatici** – conteggi per anno, paesi con più diplomatici femminili, distribuzione dei titoli.
+2. **Presenza femminile nei parlamenti e politiche estere femministe** – medie percentuali annuali, paesi aderenti a politiche estere femministe.
+3. **Approfondimento sull’Italia** – confronto con gli altri paesi e analisi specifica della rappresentanza diplomatica e parlamentare.
 
 **Strumenti SQL utilizzati**  
 - SQL Server Express + SQL Server Management Studio (SSMS)
